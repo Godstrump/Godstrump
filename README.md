@@ -2,7 +2,7 @@ Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS
 
 <p align="center">
     <a>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godstrump&theme=black-ice&hide_border=true&stroke=722F37&background=060A0CD0"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godstrump&theme=black-ice&hide_border=true&stroke=00000&background=060A0CD0&icon_color=722F37"/>
     </a>
 </p>
 
