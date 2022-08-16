@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF9faoG0zLhZg/profile-displaybackgroundimage-shrink_200_800/0/1659641611649?e=1666224000&v=beta&t=kvh4N8Vo2NBFAl0MBLAUegQ3OToUk6jytstpI-DSP9A)]([your GitHub link](https://github.com/Godstrump))
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF9faoG0zLhZg/profile-displaybackgroundimage-shrink_200_800/0/1659641611649?e=1666224000&v=beta&t=kvh4N8Vo2NBFAl0MBLAUegQ3OToUk6jytstpI-DSP9A)]([Github](https://github.com/Godstrump))
 
 Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS Cloud Developer | Tech Polymath
 
