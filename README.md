@@ -1,25 +1,24 @@
 Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS Cloud Developer | Tech Polymath
 
-<p align="center">
+<p align="left">
     <a>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godstrump&theme=dark&hide_border=true&background=000000"/>
     </a>
 </p>
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Godstrump&&show_icons=true&title_color=D3D3D3&icon_color=722F37&text_color=D3D3D3&bg_color=000000&border_color=000000">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godstrump&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godstrump&layout=compact&theme=vision-friendly-dark&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
