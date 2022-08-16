@@ -1,3 +1,5 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF9faoG0zLhZg/profile-displaybackgroundimage-shrink_200_800/0/1659641611649?e=1666224000&v=beta&t=kvh4N8Vo2NBFAl0MBLAUegQ3OToUk6jytstpI-DSP9A)]([your GitHub link](https://github.com/Godstrump))
+
 Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS Cloud Developer | Tech Polymath
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -15,11 +17,14 @@ Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS
     </a>
 </p>
 
-
 ---
- <img src="https://github-readme-stats.vercel.app/api?username=Godstrump&&show_icons=true&title_color=D3D3D3&icon_color=722F37&text_color=D3D3D3&bg_color=000000&border_color=000000">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godstrump&layout=compact&theme=vision-friendly-dark&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">My Github Stats</p>
+ <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Godstrump&&show_icons=true&title_color=D3D3D3&icon_color=722F37&text_color=D3D3D3&bg_color=000000&border_color=000000">
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godstrump&layout=compact&theme=vision-friendly-dark&border_color=000000)](https://github.com/Godstrump/github-readme-stats)
 
 ---
 
