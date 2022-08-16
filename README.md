@@ -10,7 +10,11 @@ Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS
     <img src="https://github-readme-stats.vercel.app/api?username=Godstrump&&show_icons=true&title_color=D3D3D3&icon_color=722F37&text_color=D3D3D3&bg_color=000000&border_color=000000">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godstrump&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
