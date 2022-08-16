@@ -9,6 +9,7 @@ Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Godstrump)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Godstrump)](https://github.com/Godstrump/github-readme-stats)
 ---
 
 <p align="center">
