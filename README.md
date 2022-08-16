@@ -4,7 +4,7 @@ Full Stack Engineer | M.E.R.N Stack | M.E.A.N Stack | Front-end Specialist | AWS
 
 - :zap: In my free time, I solve problems on Hackerranks, read tech articles and watch Anime.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Godstrump)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Godstrump)
 
 
 ---
